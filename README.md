@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @spritle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, We are @spritle
+- 👀 We are interested in building clean quality code
+- 🌱 We currently learning to stay healthy as well learn programming languages that can solve real world problems
+- 💞️ We looking to collaborate on building open source softwares that can improve humanity
+- 📫 How to reach me : [www.spritle.com](www.spritle.com)
 
 <!---
 spritle/spritle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
